@@ -25,33 +25,33 @@
 12	书写一个立方体。
 
 13	分别解释下列单词：
-	* nth-child
-	* -webkit-
-	* -ms-
-	* -o-
-	* -moz-
-	* transform
-	* style
-	* translate
-	* rotate
-	* scale
-	* origin
-	* clip
-	* transition
-	* animation
-	* -webkit-transform:rotate(45deg);
-	* -webkit-transition:all 1s ease;
-	* -webkit-box-flex;
-	* display:-webkit-box;
-	* box-shadow
-	* text-shadow
-	* cover
-	* contain
-	* -webkit-mask
-	* border-image
-	* border-radius
-	* box-reflect
-	* column
+* nth-child
+* -webkit-
+* -ms-
+* -o-
+* -moz-
+* transform
+* style
+* translate
+* rotate
+* scale
+* origin
+* clip
+* transition
+* animation
+* -webkit-transform:rotate(45deg);
+* -webkit-transition:all 1s ease;
+* -webkit-box-flex;
+* display:-webkit-box;
+* box-shadow
+* text-shadow
+* cover
+* contain
+* -webkit-mask
+* border-image
+* border-radius
+* box-reflect
+* column
   
 14	CSS3新属性有哪些
 
